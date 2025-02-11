@@ -29,7 +29,7 @@ Una vez descargados los repositorios, se deben seleccionar las siguientes ramas:
 
 Dentro del IDE, en la parte superior, se encuentra un icono de play de color verde. Al presionar este icono, iniciara la ejecución de la aplicación.
 
-![](image/open_proyect.png)
+![](assets/open_proyect.png)
 ## Visualización de la aplicación.
 
 Es necesario utilizar un emulador, un teléfono o una terminal para visualizar la aplicación.
